@@ -1,16 +1,17 @@
-### Hi there 👋
+# Jang Ara 😉
 
-<!--
-**purin96/purin96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###  🛠 Skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:![Python](https://img.shields.io/badge/-Python.js-05122A?style=flat&logo=Python)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br/>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hkh3045)](https://solved.ac/hkh3045)
+
+ 
+#### [LinkedIn](https://www.linkedin.com/in/kyunghyun-han-8b0956244/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purin96&theme=radical&langs_count=6&hide=css,html,makefile,java&layout=compact)](https://github.com/purin96/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=purin96" height="165">
