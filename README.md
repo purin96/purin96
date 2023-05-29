@@ -17,3 +17,4 @@ Frontend:![Python](https://img.shields.io/badge/-Python.js-05122A?style=flat&log
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purin96&theme=radical&langs_count=6&hide=css,html,makefile,java&layout=compact)](https://github.com/purin96/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=purin96" height="165">
+    
